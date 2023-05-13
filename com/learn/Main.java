@@ -8,6 +8,7 @@ public static void main(String[] args) {
 	Three.threeMethod();
 	AddOne.addOneMethod();
 	AddTwo.addTwoMethod();
+	India.name();
 	TestOne.test();
 }
 }
