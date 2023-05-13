@@ -6,5 +6,7 @@ public static void main(String[] args) {
 	One.oneMethod();
 	Two.twoMethod();
 	Three.threeMethod();
+	AddOne.addOneMethod();
+	AddTwo.addTwoMethod();
 }
 }
