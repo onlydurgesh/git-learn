@@ -9,5 +9,6 @@ public static void main(String[] args) {
 	AddOne.addOneMethod();
 	AddTwo.addTwoMethod();
 	India.name();
+	TestOne.test();
 }
 }
